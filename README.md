@@ -3,7 +3,7 @@ conky-config
 
 Just a quick paste of my conky config. I've had this running on my Chromebook for a little over a year now, and have been happy with it. Here it is, enjoy!
 
-
+![screenshot](https://github.com/fernjager/conky-config/raw/master/conky.png "Conky Screenshot")
 
 ```
 #############################################
